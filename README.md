@@ -24,3 +24,4 @@ python train.py
 * https://github.com/RoyalSkye/Routing-MVMoE
 * https://github.com/FeiLiu36/MTNCO
 * https://github.com/yd-kwon/POMO
+* https://github.com/ai4co/routefinder
